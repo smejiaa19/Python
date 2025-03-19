@@ -8,4 +8,4 @@ descuento = total_compra * 0.05
 total_compra = total_compra - descuento
 iva = total_compra * 0.10
 total_pagar = total_compra + iva
-print(f"El total a pagar es de: {total_pagar} Cordobas")
+print(f"El total a pagar es de:  {total_pagar} Cordobas")
