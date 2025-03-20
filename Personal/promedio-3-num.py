@@ -11,3 +11,4 @@ promedio = (x + y + z) / 3
 print("El promedio de los tres números es: ", + promedio)
 print(f"El promedio de los numeros anteriores es: {promedio}") 
 # Esta es una forma alterna usando el metodo f strings 
+

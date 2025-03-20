@@ -9,4 +9,4 @@ ln = math.log(x)
 print(f'''La quinta potencia de {x} es: {quinta_potencia}, 
 La raiz cuadrada de {x} es: {raiz_cuadrada}, 
 El valor absoluto de {x} es: {valor_absoluto}
-El logaritmo natural de {x} es: {ln}''')
+El logaritmo natural de {x} es: {ln}''') 
