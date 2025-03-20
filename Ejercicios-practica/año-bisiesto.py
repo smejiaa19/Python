@@ -4,4 +4,4 @@ operacion = x / 4
 if type(operacion)==int:
     print('El año es bisiesto')
 else: 
-    print('El año no es bisiesto')2
+    print('El año no es bisiesto')
