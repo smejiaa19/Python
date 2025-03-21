@@ -1,3 +1,6 @@
+# Determinar si dos numero son pares o impares
+# Para practicar bucles. 
+
 x = int(input("Ingrese un numero entero: "))
 y = int(input("Ingrese otro numero entero: "))
 

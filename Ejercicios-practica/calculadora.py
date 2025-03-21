@@ -1,3 +1,6 @@
+# Calculadora, con uso de bucles if - elseif
+# Para practicar bucles.
+
 operacion = int(input('''Ingrese la operacion aritmetica que desea realizar: 
                             1. Suma
                             2. Resta
@@ -27,4 +30,5 @@ elif operacion == 4:
     print(f'La division entre los dos numeros es de: {division}')
 else: 
     print('Operacion no valida') 
-  
+
+
