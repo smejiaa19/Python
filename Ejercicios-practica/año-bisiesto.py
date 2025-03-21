@@ -2,9 +2,9 @@
 # Practicar bucles 
 
 fecha = int(input('Ingrese el año que desea verificar: '))
-if fecha / 100 == type(fecha)== int and fecha / 400 == type(fecha) == int:
+if fecha % 4 == 0 and (fecha % 100 != 0 or fecha % 400 == 0):
     print('El año es bisiesto')
-else: 
+else:
     print('El año no es bisiesto')
     
 '''La logica quiere decir que un año debe ser divisible entre 4
@@ -19,3 +19,4 @@ ejemplo: Si fecha / 100 == 0 and fecha // 400 == 0:
 else:
     print('El año no es bisiesto')
 '''
+
