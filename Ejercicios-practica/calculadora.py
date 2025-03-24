@@ -31,4 +31,7 @@ elif operacion == 4:
 else: 
     print('Operacion no valida') 
 
-
+# El codigo consiste en que que el usuario ingrese un numero del 1 al 4 para determinar que tipo de operacion artimetica desea realizar 
+# Luego se solicita ingrese ambos numeros para iniciar con los procesos de suma, resta, multiplicacion y division 
+# Para realizar esto tenemos que hacer uso de bucles if - elseif para determinar que operacion se va a realizar
+# Si el usuario ingresa un numero mayor a 4, entonces se imprime que la operacion no es valida.
