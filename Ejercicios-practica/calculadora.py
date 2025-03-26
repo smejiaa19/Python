@@ -11,7 +11,7 @@ operacion = int(input('''Ingrese la operacion aritmetica que desea realizar:
 if operacion == 1: 
     x = int(input('Ingrese el primer numero: '))
     y = int(input('Ingrese el primer numero: '))
-    suma = x + y;
+    suma = x + y
     print(f'La suma de los numeros es: {suma}')
 elif operacion == 2: 
     x = int(input('Ingrese el primer numero: '))
