@@ -14,3 +14,4 @@ for i in range (1, num_semestres, 1):
         
     promedio_semestre = sum(notas_semestres) / len(notas_semestres)
     promedios_semestres.append(promedio_semestre)
+    
